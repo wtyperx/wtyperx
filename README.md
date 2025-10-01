@@ -1,5 +1,5 @@
 
-🔭 Atualmente estou trabalhando em projetos de estudo com Node.js, React e MySQL, aplicando conceitos de back-end e front-end.<br><br>👯 Procuro colaborar em projetos open source, aplicações web e ideias criativas que envolvam tecnologia e inovação.<br><br>🤝 Preciso de ajuda com boas práticas de arquitetura de software, testes automatizados e escalabilidade de aplicações.<br><br>🌱 Estou aprendendo mais sobre Prisma, Render e desenvolvimento full-stack.<br><br>💬 Pergunte-me sobre lógica de programação, pensamento criativo e estratégias para resolver problemas.<br><br>⚡ Curiosidade: adoro desafios que unem estratégia, lógica e criatividade, e estou sempre buscando aprender coisas novas.
+🔭 Atualmente estou trabalhando em projetos de estudo com Node.js, React e MySQL, aplicando conceitos de back-end e front-end.<br><br>👯 Procuro colaborar em projetos open source, aplicações web e ideias criativas que envolvam tecnologia e inovação.<br><br>🌱 Estou aprendendo mais sobre Prisma, Render e desenvolvimento full-stack.<br><br>💬 Pergunte-me sobre lógica de programação, pensamento criativo e estratégias para resolver problemas.<br><br>⚡ Curiosidade: adoro desafios que unem estratégia, lógica e criatividade, e estou sempre buscando aprender coisas novas.
 
 
 # 💻 Tech Stack:
